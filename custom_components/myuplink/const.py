@@ -73,6 +73,9 @@ DEFAULT_WRITABLE_OVERRIDE = {
     1961: False,
     1963: False,
     15753: False,
+    50225: True,
+    50233: True,
+    50241: True,
 }
 
 WATER_HEATERS = ["18760NE"]
