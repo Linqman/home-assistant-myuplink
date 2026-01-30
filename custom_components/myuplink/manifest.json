@@ -3,6 +3,7 @@
   "name": "myUplink",
   "codeowners": ["@jaroschek"],
   "config_flow": true,
+  "options_flow": true,
   "dependencies": ["application_credentials"],
   "documentation": "https://github.com/jaroschek/home-assistant-myuplink",
   "homekit": {},
